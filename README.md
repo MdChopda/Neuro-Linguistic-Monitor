@@ -29,7 +29,7 @@ While the current text-based prototype is highly sensitive, future iterations ai
 ## 📸 Interface Preview
 | Clinical Demo | Validation Study |
 |:---:|:---:|
-| ![Demo](assets/demo_screenshot.png) | ![Graph](assets/graph_screenshot.png) |
+| ![Demo](assets/demo_screenshot.png) | ![Graph](assets/study_results.png) |
 
 ## 🛠️ Installation
 1. Clone the repository:
@@ -55,8 +55,8 @@ Perplexity (PPL): Measures syntactic coherence using a Causal Language Model.
 
 Classification:
 
-A threshold-based logic gate identifies risk if TTR < 0.55 and PPL > 12.
-
+A threshold-based logic gate identifies risk if TTR < 0.60 and PPL > 12.
+```bash
 📂 Project Structure
 ├── app.py                  # Main Streamlit Dashboard
 ├── data/                   # Synthetic datasets
