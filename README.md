@@ -56,13 +56,15 @@ Perplexity (PPL): Measures syntactic coherence using a Causal Language Model.
 Classification:
 
 A threshold-based logic gate identifies risk if TTR < 0.60 and PPL > 12.
-```bash
-📂 Project Structure
-├── app.py                  # Main Streamlit Dashboard
-├── data/                   # Synthetic datasets
-├── utils/                  # Data generation & validation scripts
-├── assets/                 # Images and graphs
-└── requirements.txt        # Dependencies
+   ```bash
+   📂 Project Structure
+   ├── app.py                  # Main Streamlit Dashboard
+   ├── data/                   # Synthetic datasets
+   ├── utils/                  # Data generation & validation scripts
+   ├── assets/                 # Images and graphs
+   └── requirements.txt        # Dependencies
+```
 
 👨‍💻 Author
+
 Maulik Dilipbhai Chopda
