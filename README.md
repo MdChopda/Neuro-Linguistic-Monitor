@@ -15,9 +15,11 @@ The **Neuro-Linguistic Monitor** is an NLP-based diagnostic tool designed to det
    git clone [https://github.com/YOUR_USERNAME/neuro-linguistic-monitor.git](https://github.com/YOUR_USERNAME/neuro-linguistic-monitor.git)
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Run the application:
+4. Run the application:
+   ```bash
    streamlit run app.py
 
 👨‍💻 Author
